@@ -1,0 +1,6 @@
+xlrd==1.2.0
+pywinauto
+opencv-python
+numpy
+
+
